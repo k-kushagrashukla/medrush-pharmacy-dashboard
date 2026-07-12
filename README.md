@@ -96,4 +96,4 @@ sides.
 
 ## Time spent
 
-~[fill in your actual hours] hours.
+~around 5 or 6 hours.
