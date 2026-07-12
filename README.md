@@ -96,4 +96,4 @@ sides.
 
 ## Time spent
 
-~around 5 or 6 hours.
+~around 7 or 8 hours.
